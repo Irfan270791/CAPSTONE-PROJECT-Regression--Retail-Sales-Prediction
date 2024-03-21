@@ -19,6 +19,8 @@ Model insights include:
 In the preliminary model assessments, the Random Forest Regressor emerged as a frontrunner, registering an R-squared value of 0.88 on the validation set.
 Subsequent hyperparameter optimization elevated the XGBoost model, which achieved an R-squared value of 0.94 on the validation set.
 Notably, XGBoost consistently performed well, reflecting an R-squared value of 0.88 on the test data.
+
+
 🔍 Conclusion: The comprehensive analysis and evaluation determined that the XGBoost Regression model is most adept at forecasting sales for Rossmann Stores.
 
 🎉 Final Remarks
